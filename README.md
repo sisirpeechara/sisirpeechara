@@ -42,7 +42,6 @@
 > "Every great design begins with an even better story — I turn ideas into functional, beautiful websites!"
 
 ---
-![](https://komarev.com/ghpvc/?username=sisirpeechara&label=Visitors+Count&color=blue)
 
 
 
