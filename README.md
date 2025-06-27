@@ -42,6 +42,8 @@
 > "Every great design begins with an even better story — I turn ideas into functional, beautiful websites!"
 
 ---
+![Sisir's GitHub stats](https://github-readme-stats.vercel.app/api?username=sisirpeechara&show_icons=true&theme=radical)
+
 
 <!-- GitHub Stats (Optional) -->
 <!--
