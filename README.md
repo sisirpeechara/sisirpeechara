@@ -42,8 +42,9 @@
 > "Every great design begins with an even better story — I turn ideas into functional, beautiful websites!"
 
 ---
-![Sisir's GitHub stats](https://github-readme-stats.vercel.app/api?username=sisirpeechara&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sisirpeechara&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=sisirpeechara&label=Visitors+Count&color=blue)
+
+
 
 
 
