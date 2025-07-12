@@ -1,50 +1,50 @@
-<!-- Hero Banner -->
+<!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Welcome%20to%20My%20World%20🌍&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,FF00FF&height=200&section=header&text=⚡%20Peechara%20Sisir%20-%20Frontend%20Wizard%20⚡&fontSize=40&fontColor=fff" />
 </p>
 
-<!-- Typing Intro -->
+<!-- TYPING INTRO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF61AF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Peechara+Sisir;Frontend+Developer+%F0%9F%92%BB;React+%7C+Node+%7C+MongoDB;Cybersecurity+and+CTF+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF61AF&center=true&vCenter=true&width=450&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Peechara+Sisir;Frontend+Ninja+%F0%9F%A4%AB;React+%7C+Node.js+%7C+MongoDB;CTF+%7C+Cybersecurity+Lover;Let's+Code+Something+Great!" alt="Typing SVG" />
 </h1>
 
+<!-- SHORT BIO -->
+<h3 align="center">🚀 Passionate frontend developer from India | Fullstack Explorer | Hackathon Addict</h3>
+
 ---
 
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/sisir-peechara-82b67a263" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://instagram.com/peechara.sisir" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&style=for-the-badge" />
-  </a>
-  <a href="https://www.hackerrank.com/peecharasisir" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-green?logo=hackerrank&style=for-the-badge" />
-  </a>
-  <a href="https://leetcode.com/u/peecharasisir/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=for-the-badge" />
-  </a>
+### 🔗 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/sisir-peechara-82b67a263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://instagram.com/peechara.sisir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/peecharasisir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/peecharasisir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 🧰 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+### 🧰 Languages and Tools:
+<!-- SAME VISUAL STYLE AS YOU WANTED -->
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
 
 ---
@@ -59,7 +59,7 @@
 
 ---
 
-### 📈 Contribution Graph
+### ⚡ Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sisirpeechara&theme=react-dark&area=true&hide_border=true" />
@@ -70,7 +70,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sisirpeechara&theme=dracula&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sisirpeechara&theme=onestar&row=1&margin-w=20" />
 </p>
 
 ---
@@ -83,19 +83,10 @@
 
 ---
 
-### 🧠 Current Projects
-
-- [x] Personal Portfolio Website
-- [x] Cybersecurity CTF Platform
-- [ ] AI Chatbot with Streamlit + FAISS
-- [ ] Blogging Platform with Next.js + MongoDB
-
----
-
-### ✨ Random Dev Quote
+### 🤖 Random Developer Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
 
 ---
@@ -103,13 +94,22 @@
 ### 🤣 Random Programming Joke
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Joke" />
 </p>
 
 ---
 
-### 📢 Footer
+### 📦 Currently Working On:
 
+- [x] Building an insane GitHub profile 🤘
+- [x] Portfolio Website in React
+- [x] Cybersecurity & CTF Projects
+- [ ] AI Bot with Streamlit + FAISS + Google Gemini
+- [ ] Open Source Contributions
+
+---
+
+<!-- FOOTER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,FF00FF&height=120&section=footer" />
 </p>
