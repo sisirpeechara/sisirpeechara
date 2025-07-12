@@ -1,37 +1,30 @@
-<!-- Top Banner -->
+<!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E2DE2,4A00E0&height=200&section=header&text=Peechara%20Sisir&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,FF00FF&height=200&section=header&text=⚡%20Peechara%20Sisir%20-%20Frontend%20Wizard%20⚡&fontSize=40&fontColor=fff" />
 </p>
 
-<!-- Typing Intro -->
+<!-- TYPING INTRO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hello+👋%2C+I'm+Peechara+Sisir;Frontend+Developer+from+India;React+%7C+Node.js+%7C+MongoDB;Passionate+about+building+for+the+web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF61AF&center=true&vCenter=true&width=450&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Peechara+Sisir;Frontend+Ninja+%F0%9F%A4%AB;React+%7C+Node.js+%7C+MongoDB;CTF+%7C+Cybersecurity+Lover;Let's+Code+Something+Great!" alt="Typing SVG" />
 </h1>
 
+<!-- SHORT BIO -->
+<h3 align="center">🚀 Passionate frontend developer from India | Fullstack Explorer | Hackathon Addict</h3>
+
 ---
 
-### 🔗 Connect with me
-
+### 🔗 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/sisir-peechara-82b67a263" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/peechara.sisir" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/peecharasisir" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/peecharasisir/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-  </a>
+  <a href="https://linkedin.com/in/sisir-peechara-82b67a263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://instagram.com/peechara.sisir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/peecharasisir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/peecharasisir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 🧰 Languages and Tools
-
-<!-- EXACTLY the way you wanted -->
+### 🧰 Languages and Tools:
+<!-- SAME VISUAL STYLE AS YOU WANTED -->
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -60,13 +53,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sisirpeechara&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=sisirpeechara&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisirpeechara&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sisirpeechara&theme=highcontrast" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisirpeechara&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### ⚡ Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sisirpeechara&theme=react-dark&area=true&hide_border=true" />
@@ -77,12 +70,12 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sisirpeechara&theme=darkhub&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sisirpeechara&theme=onestar&row=1&margin-w=20" />
 </p>
 
 ---
 
-### 🎧 Now Playing
+### 🎧 Now Playing on Spotify
 
 <p align="center">
   <img src="https://spotify-now-playing-pi.vercel.app/api/spotify" width="350" />
@@ -90,32 +83,33 @@
 
 ---
 
-### ⚡ Currently Working On
-
-- [x] Personal Portfolio Website
-- [x] Hackathon Projects
-- [ ] AI Chatbot with Streamlit & FAISS
-- [ ] Cybersecurity Tools & CTF Platform
-
----
-
-### 💬 Random Developer Quote
+### 🤖 Random Developer Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
 
 ---
 
-### 🤣 Programming Joke
+### 🤣 Random Programming Joke
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Joke" />
 </p>
 
 ---
 
-<!-- Footer -->
+### 📦 Currently Working On:
+
+- [x] Building an insane GitHub profile 🤘
+- [x] Portfolio Website in React
+- [x] Cybersecurity & CTF Projects
+- [ ] AI Bot with Streamlit + FAISS + Google Gemini
+- [ ] Open Source Contributions
+
+---
+
+<!-- FOOTER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E2DE2,4A00E0&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,FF00FF&height=120&section=footer" />
 </p>
