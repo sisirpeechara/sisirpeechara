@@ -1,6 +1,6 @@
 <!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,FF00FF&height=200&section=header&text=⚡%20Peechara%20Sisir%20-%20Frontend%20Wizard%20⚡&fontSize=40&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,FF00FF&height=200&section=header&text=⚡%20Peechara%20Sisir%20⚡&fontSize=40&fontColor=fff" />
 </p>
 
 <!-- TYPING INTRO -->
@@ -50,7 +50,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sisirpeechara&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://streak-stats.demolab.com?user=sisirpeechara&theme=highcontrast" />
@@ -60,7 +59,6 @@
 ---
 
 ### ⚡ Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sisirpeechara&theme=react-dark&area=true&hide_border=true" />
 </p>
@@ -68,7 +66,6 @@
 ---
 
 ### 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sisirpeechara&theme=onestar&row=1&margin-w=20" />
 </p>
@@ -76,7 +73,6 @@
 ---
 
 ### 🎧 Now Playing on Spotify
-
 <p align="center">
   <img src="https://spotify-now-playing-pi.vercel.app/api/spotify" width="350" />
 </p>
@@ -84,7 +80,6 @@
 ---
 
 ### 🤖 Random Developer Quote
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
@@ -92,7 +87,6 @@
 ---
 
 ### 🤣 Random Programming Joke
-
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Joke" />
 </p>
@@ -100,7 +94,6 @@
 ---
 
 ### 📦 Currently Working On:
-
 - [x] Building an insane GitHub profile 🤘
 - [x] Portfolio Website in React
 - [x] Cybersecurity & CTF Projects
