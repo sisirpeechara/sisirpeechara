@@ -1,222 +1,115 @@
-<!-- INSANE ANIMATED HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=🔥%20PEECHARA%20SISIR%20🔥&fontSize=60&fontAlignY=38&desc=Code%20Alchemist%20•%20Cyber%20Warrior%20•%20Digital%20Architect&descAlignY=51&descAlign=62&animation=fadeIn&fontColor=ffffff" />
-</div>
+<!-- TOP BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,FF00FF&height=200&section=header&text=⚡%20Peechara%20Sisir%20-%20Frontend%20Wizard%20⚡&fontSize=40&fontColor=fff" />
+</p>
 
-<!-- MATRIX STYLE TYPING ANIMATION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=120&lines=SYSTEM+INITIALIZING...;ACCESSING+NEURAL+NETWORK...;WELCOME+TO+THE+MATRIX+🕶️;I+AM+PEECHARA+SISIR;FULL+STACK+DEVELOPER+|+HACKER;REALITY+IS+JUST+CODE...;LET'S+HACK+THE+FUTURE+TOGETHER!" alt="Matrix Typing" />
-</div>
+<!-- TYPING INTRO -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF61AF&center=true&vCenter=true&width=450&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Peechara+Sisir;Frontend+Ninja+%F0%9F%A4%AB;React+%7C+Node.js+%7C+MongoDB;CTF+%7C+Cybersecurity+Lover;Let's+Code+Something+Great!" alt="Typing SVG" />
+</h1>
 
-<!-- INSANE ANIMATED PROFILE INTRO -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=4000&pause=2000&color=FF3068&center=true&vCenter=true&width=1000&lines=⚡+DIGITAL+SORCERER+FROM+INDIA+⚡;🚀+CRAFTING+IMPOSSIBLE+SOLUTIONS+🚀;🔥+FRONTEND+NINJA+•+BACKEND+SAMURAI+🔥;🎯+HACKATHON+DESTROYER+•+BUG+HUNTER+🎯;💀+CYBERSECURITY+DEMON+💀;🌟+TURNING+CAFFEINE+INTO+CODE+🌟" alt="Profile Intro" />
-</div>
+<!-- SHORT BIO -->
+<h3 align="center">🚀 Passionate frontend developer from India | Fullstack Explorer | Hackathon Addict</h3>
 
-<!-- ANIMATED DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
-<!-- INSANE STATS SECTION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=📊+LEGENDARY+GITHUB+STATS+📊;🔥+PREPARE+TO+BE+AMAZED+🔥" alt="Stats Header" />
-</div>
+### 🔗 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/sisir-peechara-82b67a263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://instagram.com/peechara.sisir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/peecharasisir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/peecharasisir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=sisirpeechara&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=sisirpeechara&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisirpeechara&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />
-</div>
+### 🧰 Languages and Tools:
+<!-- SAME VISUAL STYLE AS YOU WANTED -->
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+</p>
 
-<!-- ANIMATED DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
-<!-- INSANE TECH STACK -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=⚔️+WEAPONS+OF+MASS+CREATION+⚔️;🛡️+TECH+ARSENAL+UNLOCKED+🛡️" alt="Tech Stack Header" />
-</div>
+### 📊 GitHub Stats
 
-### 🌐 **FRONTEND DOMINATION**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,js,ts,tailwind,bootstrap,sass,materialui&theme=dark&perline=12" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sisirpeechara&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=sisirpeechara&theme=highcontrast" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisirpeechara&layout=compact&theme=radical" />
+</p>
 
-### ⚡ **BACKEND MASTERY**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java,spring,php,laravel,ruby,rails,go&theme=dark&perline=12" />
-</div>
+---
 
-### 🗄️ **DATABASE WIZARDRY**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,supabase,sqlite,cassandra&theme=dark&perline=8" />
-</div>
+### ⚡ Contribution Graph
 
-### 🔧 **DEVOPS & TOOLS**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,jenkins,git,github,gitlab,linux,bash,vim&theme=dark&perline=12" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sisirpeechara&theme=react-dark&area=true&hide_border=true" />
+</p>
 
-### 🎨 **DESIGN & CREATIVITY**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,unity,unreal&theme=dark&perline=6" />
-</div>
+---
 
-<!-- ANIMATED DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+### 🏆 GitHub Trophies
 
-<!-- INSANE ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=📈+CODING+ADDICTION+LEVEL+📈;🔥+GITHUB+ACTIVITY+HEATMAP+🔥" alt="Activity Header" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sisirpeechara&theme=onestar&row=1&margin-w=20" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sisirpeechara&bg_color=0d1117&color=f8d866&line=f85d7f&point=ffeb3b&area=true&hide_border=true&custom_title=🔥%20SISIR'S%20CODING%20JOURNEY%20🔥" width="100%" />
-</div>
+---
 
-<!-- ANIMATED DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+### 🎧 Now Playing on Spotify
 
-<!-- INSANE ACHIEVEMENTS -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🏆+LEGENDARY+ACHIEVEMENTS+🏆;⚡+HALL+OF+FAME+⚡" alt="Achievements Header" />
-</div>
+<p align="center">
+  <img src="https://spotify-now-playing-pi.vercel.app/api/spotify" width="350" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sisirpeechara&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=3&column=7" />
-</div>
+---
 
-<!-- ANIMATED DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+### 🤖 Random Developer Quote
 
-<!-- INSANE PROJECTS SHOWCASE -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2000&pause=1000&color=9F7AEA&center=true&vCenter=true&width=600&lines=🚀+MIND-BLOWING+PROJECTS+🚀;💻+DIGITAL+MASTERPIECES+💻" alt="Projects Header" />
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
 
-<div align="center">
-  
-| 🔥 **PROJECT** | 🎯 **STATUS** | ⚡ **TECH STACK** | 🌟 **IMPACT** |
-|:---:|:---:|:---:|:---:|
-| 🌐 **Portfolio 3.0** | ✅ **LIVE** | React, Three.js, GSAP | 🤯 **MIND-BLOWING** |
-| 🔐 **CyberShield Pro** | 🚧 **BUILDING** | Python, ML, Docker | 🛡️ **GAME-CHANGER** |
-| 🤖 **AI Assistant** | 📋 **PLANNING** | GPT-4, FastAPI, React | 🧠 **REVOLUTIONARY** |
-| 🎮 **GameDev Engine** | 🔥 **PROTOTYPE** | C++, OpenGL, Vulkan | 🎯 **NEXT-LEVEL** |
+---
 
-</div>
+### 🤣 Random Programming Joke
 
-<!-- ANIMATED DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Joke" />
+</p>
 
-<!-- INSANE SOCIAL CONNECTIONS -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🌐+CONNECT+WITH+THE+LEGEND+🌐;📱+SOCIAL+NETWORK+DOMINATION+📱" alt="Social Header" />
-</div>
+---
 
-<div align="center">
-  <a href="https://linkedin.com/in/sisir-peechara-82b67a263" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/peechara.sisir" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.hackerrank.com/peecharasisir" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://leetcode.com/u/peecharasisir/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</div>
+### 📦 Currently Working On:
 
-<!-- ANIMATED DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+- [x] Building an insane GitHub profile 🤘
+- [x] Portfolio Website in React
+- [x] Cybersecurity & CTF Projects
+- [ ] AI Bot with Streamlit + FAISS + Google Gemini
+- [ ] Open Source Contributions
 
-<!-- SPOTIFY CURRENTLY PLAYING -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2000&pause=1000&color=1DB954&center=true&vCenter=true&width=600&lines=🎵+CODING+SOUNDTRACK+🎵;🎧+CURRENT+VIBE+🎧" alt="Spotify Header" />
-</div>
+---
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" width="400" />
-</div>
-
-<!-- ANIMATED DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- DEVELOPER QUOTES -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2000&pause=1000&color=F39C12&center=true&vCenter=true&width=600&lines=💭+WISDOM+FROM+THE+CODE+💭;🧠+DEVELOPER+PHILOSOPHY+🧠" alt="Quote Header" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-<!-- RANDOM JOKE -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2000&pause=1000&color=E74C3C&center=true&vCenter=true&width=600&lines=😂+DEVELOPER+HUMOR+😂;🤪+RANDOM+CODE+JOKE+🤪" alt="Joke Header" />
-</div>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Joke" />
-</div>
-
-<!-- ANIMATED DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- INSANE FINAL SECTION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=800&lines=🔥+READY+TO+COLLABORATE?+🔥;⚡+LET'S+CREATE+DIGITAL+MAGIC+⚡;🚀+THE+FUTURE+AWAITS+US+🚀" alt="Final CTA" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sisirpeechara&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/sisirpeechara?style=for-the-badge&color=orange&label=FOLLOWERS" />
-</div>
-
-<!-- GITHUB SNAKE EATING CONTRIBUTIONS -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sisirpeechara/sisirpeechara/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sisirpeechara/sisirpeechara/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sisirpeechara/sisirpeechara/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<!-- INSANE ANIMATED FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=🌟%20THANKS%20FOR%20VISITING%20🌟&fontSize=40&fontAlignY=70&desc=Made%20with%20💜%20by%20Peechara%20Sisir&descAlignY=90&descAlign=60&animation=fadeIn&fontColor=ffffff" />
-</div>
-
-<!-- FINAL ANIMATED MESSAGE -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=4000&pause=2000&color=00FF41&center=true&vCenter=true&width=600&lines=⭐+STAR+MY+REPOS+IF+YOU+LIKE+THEM+⭐;🔥+FOLLOW+FOR+MORE+AWESOME+CONTENT+🔥;💫+SEE+YOU+IN+THE+MATRIX+💫" alt="Final Message" />
-</div>
-
-<!-- ADDITIONAL CUSTOM ANIMATIONS -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="3%" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="3%" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="3%" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" alt="Electric Plug" width="3%" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="3%" />
-</div>
+<!-- FOOTER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,FF00FF&height=120&section=footer" />
+</p>
