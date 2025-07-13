@@ -5,7 +5,7 @@
 
 <!-- MATRIX STYLE TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=120&lines=SYSTEM+INITIALIZING...;ACCESSING+NEURAL+NETWORK...;WELCOME+TO+THE+MATRIX+🕶️;I+AM+PEECHARA+SISIR;FULL+STACK+DEVELOPER+%7C+HACKER;REALITY+IS+JUST+CODE...;LET'S+HACK+THE+FUTURE+TOGETHER!" alt="Matrix Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=120&lines=SYSTEM+INITIALIZING...;ACCESSING+NEURAL+NETWORK...;WELCOME+TO+THE+MATRIX+🕶️;I+AM+PEECHARA+SISIR;FULL+STACK+DEVELOPER+|+HACKER;REALITY+IS+JUST+CODE...;LET'S+HACK+THE+FUTURE+TOGETHER!" alt="Matrix Typing" />
 </div>
 
 <!-- INSANE ANIMATED PROFILE INTRO -->
@@ -128,16 +128,16 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/sisir-peechara-82b67a263" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/peechara.sisir" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.hackerrank.com/peecharasisir" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866&color=2EC866" alt="HackerRank" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   <a href="https://leetcode.com/u/peecharasisir/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116&color=FFA116" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </div>
 
@@ -152,7 +152,7 @@
 </div>
 
 <div align="center">
-  <img src="https://spotify-now-playing-pi.vercel.app/api/spotify" width="400" />
+  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" width="400" />
 </div>
 
 <!-- ANIMATED DIVIDER -->
@@ -166,7 +166,7 @@
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 <!-- RANDOM JOKE -->
@@ -190,12 +190,16 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sisirpeechara&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/sisirpeechara?style=for-the-badge&color=orange&labelColor=orange&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/followers/sisirpeechara?style=for-the-badge&color=orange&label=FOLLOWERS" />
 </div>
 
-<!-- SNAKE EATING CONTRIBUTIONS -->
+<!-- GITHUB SNAKE EATING CONTRIBUTIONS -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sisirpeechara/sisirpeechara/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sisirpeechara/sisirpeechara/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sisirpeechara/sisirpeechara/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sisirpeechara/sisirpeechara/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <!-- INSANE ANIMATED FOOTER -->
@@ -206,4 +210,13 @@
 <!-- FINAL ANIMATED MESSAGE -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=4000&pause=2000&color=00FF41&center=true&vCenter=true&width=600&lines=⭐+STAR+MY+REPOS+IF+YOU+LIKE+THEM+⭐;🔥+FOLLOW+FOR+MORE+AWESOME+CONTENT+🔥;💫+SEE+YOU+IN+THE+MATRIX+💫" alt="Final Message" />
+</div>
+
+<!-- ADDITIONAL CUSTOM ANIMATIONS -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="3%" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="3%" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="3%" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Electric%20Plug.png" alt="Electric Plug" width="3%" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="3%" />
 </div>
