@@ -1,115 +1,186 @@
 <!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,FF00FF&height=200&section=header&text=⚡%20Peechara%20Sisir%20-%20Frontend%20Wizard%20⚡&fontSize=40&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=⚡%20Peechara%20Sisir%20⚡&fontSize=50&fontColor=fff&animation=fadeIn" />
 </p>
 
 <!-- TYPING INTRO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF61AF&center=true&vCenter=true&width=450&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Peechara+Sisir;Frontend+Ninja+%F0%9F%A4%AB;React+%7C+Node.js+%7C+MongoDB;CTF+%7C+Cybersecurity+Lover;Let's+Code+Something+Great!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=👋+Hey+there%2C+I'm+Peechara+Sisir;🚀+Full+Stack+Developer;⚡+React+%7C+Node.js+%7C+MongoDB;🔐+Cybersecurity+Enthusiast;🏆+CTF+Player+%26+Problem+Solver;💡+Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </h1>
 
-<!-- SHORT BIO -->
-<h3 align="center">🚀 Passionate frontend developer from India | Fullstack Explorer | Hackathon Addict</h3>
+<!-- ENHANCED BIO -->
+<div align="center">
+  
+  ### 🌟 Passionate Full Stack Developer from India
+  
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Frontend%20Development-brightgreen?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Passion-Cybersecurity-red?style=for-the-badge&logo=hackaday&logoColor=white" />
+    <img src="https://img.shields.io/badge/Love-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </p>
+  
+  <p>
+    🎯 Building robust web applications with modern technologies<br/>
+    🔍 Exploring the depths of cybersecurity and ethical hacking<br/>
+    🏅 Active participant in hackathons and coding competitions<br/>
+    📚 Continuous learner, always eager to embrace new challenges
+  </p>
+  
+</div>
 
 ---
 
-### 🔗 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/sisir-peechara-82b67a263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/peechara.sisir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/peecharasisir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/peecharasisir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-</p>
-
----
-
-### 🧰 Languages and Tools:
-<!-- SAME VISUAL STYLE AS YOU WANTED -->
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sisirpeechara&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=sisirpeechara&theme=highcontrast" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisirpeechara&layout=compact&theme=radical" />
+  <a href="https://linkedin.com/in/sisir-peechara-82b67a263" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/peechara.sisir" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.hackerrank.com/peecharasisir" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://leetcode.com/u/peecharasisir/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
 </p>
 
 ---
 
-### ⚡ Contribution Graph
+## 🛠️ Tech Stack & Tools
 
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sisirpeechara&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+### 🌐 Frontend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### ⚡ Backend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### 🔧 Tools & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sisirpeechara&theme=onestar&row=1&margin-w=20" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sisirpeechara&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisirpeechara&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sisirpeechara&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-### 🎧 Now Playing on Spotify
+## 📈 Activity Graph
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sisirpeechara&theme=tokyo-night&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sisirpeechara&theme=tokyonight&row=2&margin-w=20&margin-h=20&no-bg=true&no-frame=true" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+  
+| Project | Status | Technology |
+|---------|--------|------------|
+| 🏗️ Portfolio Website | ✅ Complete | React, Tailwind CSS |
+| 🔐 Cybersecurity Tools | 🔄 In Progress | Python, Networking |
+| 🤖 AI Assistant Bot | 📋 Planned | Streamlit, FAISS, Gemini |
+| 🌟 Open Source Contributions | 🔄 Ongoing | Various |
+
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
   <img src="https://spotify-now-playing-pi.vercel.app/api/spotify" width="350" />
-</p>
+</div>
 
 ---
 
-### 🤖 Random Developer Quote
+## 💭 Developer Wisdom
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 ---
 
-### 🤣 Random Programming Joke
+## 😄 Random Dev Humor
 
-<p align="center">
+<div align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Joke" />
-</p>
+</div>
 
 ---
 
-### 📦 Currently Working On:
+## 📫 Let's Collaborate
 
-- [x] Building an insane GitHub profile 🤘
-- [x] Portfolio Website in React
-- [x] Cybersecurity & CTF Projects
-- [ ] AI Bot with Streamlit + FAISS + Google Gemini
-- [ ] Open Source Contributions
+<div align="center">
+  <p>
+    💼 Open to exciting opportunities and collaborations<br/>
+    🚀 Let's build something amazing together!<br/>
+    📧 Feel free to reach out for projects, mentoring, or just a tech chat
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=sisirpeechara&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
 
 ---
 
 <!-- FOOTER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,FF00FF&height=120&section=footer" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" />
+</div>
+
+---
+
+<div align="center">
+  <h3>⭐ Show some love by starring my repositories if you find them interesting! ⭐</h3>
+</div>
