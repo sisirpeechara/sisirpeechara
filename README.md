@@ -1,5 +1,3 @@
-# ⚡ Peechara Sisir
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,FF00FF&height=200&section=header&text=⚡%20Peechara%20Sisir%20⚡&fontSize=40&fontColor=fff" />
 </p>
