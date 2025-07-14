@@ -80,12 +80,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sisirpeechara&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false&border_radius=10" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisirpeechara&layout=compact&theme=tokyonight&langs_count=8&hide_border=false&border_radius=10" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sisirpeechara&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sisirpeechara&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sisirpeechara&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisirpeechara&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -93,7 +96,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sisirpeechara&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=38bdae&area=true&hide_border=false&border_radius=10" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sisirpeechara&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -101,7 +104,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sisirpeechara&theme=tokyonight&row=2&margin-w=20&margin-h=20&no-bg=false&no-frame=false" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sisirpeechara&theme=onestar&row=2&margin-w=20" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -131,7 +134,7 @@
 ## 💡 Daily Inspiration
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Developer Quote" />
 </div>
 
 ---
@@ -169,7 +172,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:peecharasisir@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
