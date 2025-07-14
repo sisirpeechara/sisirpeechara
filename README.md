@@ -96,7 +96,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sisirpeechara&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sisirpeechara&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -126,7 +126,7 @@
 ## 🎧 Currently Listening To
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" width="350" alt="Spotify Now Playing" />
+  <img src="https://spotify-now-playing-pi.vercel.app/api/spotify" width="350" alt="Spotify Now Playing" />
 </div>
 
 ---
@@ -143,24 +143,6 @@
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Programming Joke" />
-</div>
-
----
-
-## 📊 Detailed GitHub Metrics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sisirpeechara&theme=tokyonight" alt="Profile Summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sisirpeechara&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sisirpeechara&theme=tokyonight" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sisirpeechara&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sisirpeechara&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 ---
