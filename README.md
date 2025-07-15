@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sisirpeechara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/sisirpeechara?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/sisirpeechara?label=Total%20Stars&style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/stars/sisirpeechara?affiliations=OWNER&style=social" alt="GitHub User's stars" />
 </p>
 
 ---
@@ -81,15 +81,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sisirpeechara&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sisirpeechara&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sisirpeechara&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sisirpeechara&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisirpeechara&layout=compact&theme=radical&langs_count=10&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisirpeechara&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -97,7 +97,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sisirpeechara&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sisirpeechara&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -105,7 +105,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sisirpeechara&theme=onestar&row=2&margin-w=20&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sisirpeechara&theme=onestar&row=2&margin-w=20" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -146,7 +146,7 @@
 ## 🎧 Currently Listening To
 
 <div align="center">
-  <img src="https://spotify-now-playing-pi.vercel.app/api/spotify-playing" width="350" alt="Spotify Now Playing" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k6hzz6kxr4r7kmsqgvz37xvs3i&unique=true" width="350" alt="Spotify Recently Played" />
 </div>
 
 ---
@@ -175,38 +175,24 @@
 
 ---
 
-## 📊 WakaTime Stats
+## 🎯 Current Focus
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### ✅ Completed Projects
+- [x] Building an insane GitHub profile 🤘
+- [x] Portfolio Website in React
+- [x] Cybersecurity & CTF Projects
 
----
-
-## 🔥 Recent Projects
-
-<div align="center">
-  <a href="https://github.com/sisirpeechara/awesome-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sisirpeechara&repo=awesome-project-1&theme=tokyonight&hide_border=true" alt="Awesome Project 1" />
-  </a>
-  <a href="https://github.com/sisirpeechara/awesome-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sisirpeechara&repo=awesome-project-2&theme=tokyonight&hide_border=true" alt="Awesome Project 2" />
-  </a>
-</div>
+### 🚧 In Progress
+- [ ] AI Bot with Streamlit + FAISS + Google Gemini
+- [ ] Open Source Contributions
+- [ ] Advanced Full-stack Applications
 
 ---
 
-## 💻 Coding Activity
+## 🌟 Fun Facts
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sisirpeechara&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
-</div>
-
----
-
-## 🐍 Snake Game
-
-<div align="center">
-  <img src="https://github.com/sisirpeechara/sisirpeechara/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=⚡+I+debug+with+console.log();🍕+Pizza+is+my+coding+fuel;🌙+Night+owl+developer;🎮+Gaming+enthusiast;☕+Coffee+over+everything" alt="Fun Facts" />
 </div>
 
 ---
