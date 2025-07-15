@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sisirpeechara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/sisirpeechara?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/sisirpeechara?affiliations=OWNER&style=social" alt="GitHub User's stars" />
 </p>
 
 ---
@@ -81,7 +80,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sisirpeechara&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sisirpeechara&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
@@ -89,7 +88,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisirpeechara&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisirpeechara&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -110,20 +109,6 @@
 
 ---
 
-## 🚀 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🎯 Current Focus
 
 ### ✅ Completed Projects
@@ -136,25 +121,12 @@
 - [ ] Open Source Contributions
 - [ ] Advanced Full-stack Applications
 
-### 📅 This Week's Goals
-- [ ] Contribute to 2 open source projects
-- [ ] Complete advanced React tutorial
-- [ ] Solve 5 LeetCode problems
-
 ---
 
 ## 🎧 Currently Listening To
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k6hzz6kxr4r7kmsqgvz37xvs3i&unique=true" width="350" alt="Spotify Recently Played" />
-</div>
-
----
-
-## 🌟 Fun Facts
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=⚡+I+debug+with+console.log();🍕+Pizza+is+my+coding+fuel;🌙+Night+owl+developer;🎮+Gaming+enthusiast;☕+Coffee+over+everything" alt="Fun Facts" />
+  <img src="https://spotify-now-playing-pi.vercel.app/api/spotify" width="350" alt="Spotify Now Playing" />
 </div>
 
 ---
@@ -175,28 +147,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-### ✅ Completed Projects
-- [x] Building an insane GitHub profile 🤘
-- [x] Portfolio Website in React
-- [x] Cybersecurity & CTF Projects
-
-### 🚧 In Progress
-- [ ] AI Bot with Streamlit + FAISS + Google Gemini
-- [ ] Open Source Contributions
-- [ ] Advanced Full-stack Applications
-
----
-
-## 🌟 Fun Facts
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=⚡+I+debug+with+console.log();🍕+Pizza+is+my+coding+fuel;🌙+Night+owl+developer;🎮+Gaming+enthusiast;☕+Coffee+over+everything" alt="Fun Facts" />
-</div>
-
----
-
 ## 📫 Get In Touch
 
 <p align="center">
@@ -204,7 +154,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:peecharasisir@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -217,8 +167,4 @@
 
 <p align="center">
   <em>⭐ Don't forget to star my repositories if you find them interesting!</em>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=7F00FF&center=true&vCenter=true&width=400&lines=Thanks+for+visiting+my+profile!+✨;Let's+connect+and+build+something+amazing!;Happy+coding!+🚀" alt="Footer Message" />
 </p>
