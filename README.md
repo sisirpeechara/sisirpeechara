@@ -1,4 +1,4 @@
-<p align="center">
+.......<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Peechara%20Sisir&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=Frontend%20Developer%20%E2%80%A2%20Fullstack%20Explorer%20%E2%80%A2%20Hackathon%20Addict&descAlignY=75&descSize=16&descFontColor=a78bfa&animation=twinkling" />
 </p>
 
